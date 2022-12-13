@@ -1,9 +1,8 @@
 package group1.homework;
 
-public class Homework1 {
+public class Homework2 {
 
     public static void main(String[] args) {
-
-        System.out.println("Hello from Homework");
+        System.out.println("homework 2");
     }
 }
